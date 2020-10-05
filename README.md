@@ -1,9 +1,9 @@
 ### Hi there 👋 ☕
-**Glad to see you here!** :star_struck: <br> <b> I'm Ph from 🇻🇳 
+**Glad to see you here!** :star_struck: <br> <b> I'm PhanAnh from 🇻🇳 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=giavudangle&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/giavudangle) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=giavudangle.visitor-badge)](https://github.com/giavudangle) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/giavudangle)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/PhanAnh1811) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=giavudangle.visitor-badge)](https://github.com/giavudangle) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/giavudangle)
 
 Currently I'm **contributing and owner** following projects:
 
@@ -33,11 +33,11 @@ Currently I'm **contributing and owner** following projects:
 - 👯 I’m looking to collaborate on Javascript.
 - 🤔 I’m looking for help with AI, Swift .
 - 💬 Ask me about React, React Native, Javascript .
-- 📫 How to reach me: [**Facebook**](https://www.facebook.com/giavudangle)
+- 📫 How to reach me: [**Facebook**](https://www.facebook.com/profile.php?id=100012907031919)
 - ⚡ Fun fact: " There is no elevator to success you have to take the stairs "
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giavudangle&langs_count=10&hide=html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- - 😄 Pronouns: ... -->
 <!--
-**giavudangle/giavudangle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PhanAnh1811/PhanAnh1811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
