@@ -1,7 +1,7 @@
 ### Hi there 👋 ☕
 **Glad to see you here!** :star_struck: <br> <b> I'm PhanTuanAnh from 🇻🇳 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PhanAnh&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PhanAnh1811&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/PhanAnh1811) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=giavudangle.visitor-badge)](https://github.com/PhanAnh1811) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/PhanAnh1811)
 
