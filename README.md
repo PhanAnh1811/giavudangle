@@ -33,7 +33,7 @@ Currently I'm **contributing and owner** following projects:
 - 👯 I’m looking to collaborate on Javascript.
 - 🤔 I’m looking for help with AI, Swift .
 - 💬 Ask me about React, React Native, Javascript .
-- 📫 How to reach me: [**Facebook**](https://www.facebook.com/profile.php?id=100012907031919)
+- 📫 How to reach me:  [**Facebook**](https://www.facebook.com/profile.php?id=100012907031919)
 - ⚡ Fun fact: " There is no elevator to success you have to take the stairs "
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giavudangle&langs_count=10&hide=html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
